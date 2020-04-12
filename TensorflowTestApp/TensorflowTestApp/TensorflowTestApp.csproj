@@ -77,9 +77,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="model\LICENSE">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Include="model\tensorflow_inception_graph.pb">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
